@@ -19,10 +19,12 @@
 
 ✍️ Heute haben wir auf Papier ein erstes Konzept für jede Klasse und Charakter erstell, der Spielbar ist. Auch haben wir Angefangen mit einer Auswahl für die Klassen und Charaktere die aber noch nicht ganz Fertig ist. 
 
+Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6
 ## 29.8
 - [ ] Charakter/Rollen Auswahl Fertigstellen
 - [ ] Konzept für Gegner erstellen (Offline)
 - [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc.)
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
 
