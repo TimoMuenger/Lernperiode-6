@@ -1,4 +1,4 @@
-# Lern-Periode 6
+# Lernperiode 6
 
 22.8 bis 19.9.2024
 
@@ -26,5 +26,6 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 - [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc.)
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
 
 
