@@ -21,11 +21,19 @@
 
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6
 ## 29.8
-- [ ] Charakter/Rollen Auswahl Fertigstellen
-- [ ] Konzept für Gegner erstellen (Offline)
+- [x] Charakter/Rollen Auswahl Fertigstellen
+- [x] Konzept für Gegner erstellen (Offline)
 - [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc.)
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute hatten wir nicht so viel Zeit, wegen der Prüfung am Nachmittag. Trotzdem haben wir wir die Charakter und Rollenauswahl fertig erstellt und wir haben ein Konzept für die Gegner erstellt.
+
+Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
+
+## 05.09
+- [ ] Erneut Klassen für die Charakter erstellen
+- [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
+- [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc. Offline)
+
 
 
 
