@@ -32,9 +32,21 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
 
 ## 05.09
-- [ ] Erneut Klassen für die Charakter erstellen
+- [x] Erneut Klassen für die Charakter erstellen
 - [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
-- [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc. Offline)
+- [x] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc. Offline)
+
+✍️ Heute haben wir die fast die ganze Zeit dafür gebraucht die Klassen erneut in unseren Code einzufügen. Da dieses Arbeitspaket sehr aufwendig war hat die Zeit uns nicht mehr gereicht auch noch Gegner einzufügen. 
+In dem Offline Arbeitspaket habe wir noch sehr grob den Ablauf unseres Spiels skiziert.
+
+https://cdn.discordapp.com/attachments/1273904176312877160/1413463517398564894/WhatsApp_Bild_2025-09-05_um_09.08.08_86da1878.jpg?ex=68bc05fb&is=68bab47b&hm=e90591b9e0e9f6f4438c6570a63f727396cbc5dbdb032cb981b6d131dbdfc37e&
+
+Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
+
+##12.09
+- [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
+- [ ] Anfang des Spiels erstellen (nach erstelltem Konzept auf Papier)
+- [ ] Mit dem Kampfsystem anfangen (Spetzielle Fähigkeiten, wie verteilt/bekommt man Schaden)
 
 
 
