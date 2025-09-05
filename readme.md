@@ -43,10 +43,11 @@ In dem Offline Arbeitspaket habe wir noch sehr grob den Ablauf unseres Spiels sk
 
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
 
-##12.09
+## 12.09
 - [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
 - [ ] Anfang des Spiels erstellen (nach erstelltem Konzept auf Papier)
 - [ ] Mit dem Kampfsystem anfangen (Spetzielle Fähigkeiten, wie verteilt/bekommt man Schaden)
+
 
 
 
