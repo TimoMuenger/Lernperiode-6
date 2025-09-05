@@ -39,7 +39,7 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 ✍️ Heute haben wir die fast die ganze Zeit dafür gebraucht die Klassen erneut in unseren Code einzufügen. Da dieses Arbeitspaket sehr aufwendig war hat die Zeit uns nicht mehr gereicht auch noch Gegner einzufügen. 
 In dem Offline Arbeitspaket habe wir noch sehr grob den Ablauf unseres Spiels skiziert.
 
-https://cdn.discordapp.com/attachments/1273904176312877160/1413463517398564894/WhatsApp_Bild_2025-09-05_um_09.08.08_86da1878.jpg?ex=68bc05fb&is=68bab47b&hm=e90591b9e0e9f6f4438c6570a63f727396cbc5dbdb032cb981b6d131dbdfc37e&
+![WhatsApp Bild 2025-09-05 um 09 06 28_f05143ce](https://github.com/user-attachments/assets/18d15b90-8801-4a4d-8aac-4806d25c68bb)
 
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
 
@@ -47,6 +47,7 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 - [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
 - [ ] Anfang des Spiels erstellen (nach erstelltem Konzept auf Papier)
 - [ ] Mit dem Kampfsystem anfangen (Spetzielle Fähigkeiten, wie verteilt/bekommt man Schaden)
+
 
 
 
