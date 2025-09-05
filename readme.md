@@ -28,12 +28,14 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 ✍️ Heute hatten wir nicht so viel Zeit, wegen der Prüfung am Nachmittag. Trotzdem haben wir wir die Charakter und Rollenauswahl fertig erstellt und wir haben ein Konzept für die Gegner erstellt.
 
 ![7c3816c3-7f3b-4eda-a1a4-02d19b653b1a](https://github.com/user-attachments/assets/868da1a3-3043-481c-b2e1-e793a4103531)
+
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
 
 ## 05.09
 - [ ] Erneut Klassen für die Charakter erstellen
 - [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
 - [ ] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc. Offline)
+
 
 
 
