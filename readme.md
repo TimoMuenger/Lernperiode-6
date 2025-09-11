@@ -36,17 +36,32 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 - [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
 - [x] Etnscheiden wie das Spiel Anfangen soll (Wo ist man am Anfang? Kommen dierekt Geger? etc. Offline)
 
-✍️ Heute haben wir die fast die ganze Zeit dafür gebraucht die Klassen erneut in unseren Code einzufügen. Da dieses Arbeitspaket sehr aufwendig war hat die Zeit uns nicht mehr gereicht auch noch Gegner einzufügen. 
+✍️ Heute haben wir fast die ganze Zeit dafür gebraucht die Klassen erneut in unseren Code einzufügen. Da dieses Arbeitspaket sehr aufwendig war hat die Zeit uns nicht mehr gereicht auch noch Gegner einzufügen. 
 In dem Offline Arbeitspaket habe wir noch sehr grob den Ablauf unseres Spiels skiziert.
 
 ![WhatsApp Bild 2025-09-05 um 09 06 28_f05143ce](https://github.com/user-attachments/assets/18d15b90-8801-4a4d-8aac-4806d25c68bb)
 
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
-
+ 
 ## 12.09
-- [ ] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
-- [ ] Anfang des Spiels erstellen (nach erstelltem Konzept auf Papier)
-- [ ] Mit dem Kampfsystem anfangen (Spetzielle Fähigkeiten, wie verteilt/bekommt man Schaden)
+- [x] Gegner ins Spiel hinzufügen (nach erstelltem Konzept auf Papier)
+- [x] Anfang des Spiels erstellen (nach erstelltem Konzept auf Papier)
+- [ ] Mit dem Kampfsystem anfangen (wie verteilt/bekommt man Schaden)
+
+✍️ Heute haben wir die die Gegner programmiert. Ein Anfang des Spiels gibt es auch schon also man kann jetzt reisen und ausruhen.
+   Für das Kampfsystem hat es uns nicht mehr gereicht, da wir noch einen Bug beim ausruhen fixen mussten der gemacht hat, dass man über der Maximalanzahl Leben haben kann.
+
+   Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
+   
+## 21.09
+- [ ] Mit dem Kampfsystem anfangen (wie verteilt/bekommt man Schaden)
+- [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
+- [ ] Ein Lvl-System konzipieren
+
+
+
+      
+
 
 
 
