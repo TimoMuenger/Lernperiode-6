@@ -53,14 +53,27 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 
    Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
    
-## 21.09
-- [ ] Mit dem Kampfsystem anfangen (wie verteilt/bekommt man Schaden)
+## 19.09
+- [x] Mit dem Kampfsystem anfangen (wie verteilt/bekommt man Schaden)
+- [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
+- [ ] Ein Lvl-System konzipieren
+      
+✍️ Heute haben wir mit dem Kampfsystem angefangen. Während den Tests die wir gemacht haben ist uns aufgefallen, dass ab einer gewissen Stelle im Code die Konsole overwrited wird.
+An diesem Problem hatten wir lange herumstudiert und ausprobiert aber sind auf keine Lösung gekommen.
+
+Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
+
+## 17.10
+- [ ] Fehler vom letzten mal beheben
 - [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
 - [ ] Ein Lvl-System konzipieren
 
 
 
+
+
       
+
 
 
 
