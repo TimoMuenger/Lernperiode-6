@@ -64,15 +64,20 @@ An diesem Problem hatten wir lange herumstudiert und ausprobiert aber sind auf k
 Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua: https://github.com/Yoshi1307/Lern-Periode-6 
 
 ## 17.10
-- [ ] Fehler vom letzten mal beheben
+- [x] Fehler vom letzten mal beheben
 - [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
-- [ ] Ein Lvl-System konzipieren
+- [x] Kampfsystem fertig machen
+
+✍️ Heute haben wir das Kampfsystem fertig gestellt. Mit den Fähigkeiten der Klassen hatten wir Probleme, doch wir denken es ist eine gute Idee wenn wir es in die nächste Lehrperiode 
+mitnehmen.
+
 
 
 
 
 
       
+
 
 
 
