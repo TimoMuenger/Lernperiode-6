@@ -71,12 +71,20 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 ✍️ Heute haben wir das Kampfsystem fertig gestellt. Mit den Fähigkeiten der Klassen hatten wir Probleme, doch wir denken es ist eine gute Idee wenn wir es in die nächste Lehrperiode 
 mitnehmen.
 
+# Fertiges Projekt
+Unser Projekt ist ein Text RPG bei dem man eine selbst ausgewählte Rolle spielt mit der man Monster bekämpft.
+
+Da der Laptop von Joshua zurzeit noch Probleme mach können wir bedauerlicherweise den Code wie auch ein GIF zu unserem Projekt nicht hochladen. Wir versuchen es so schnell wie möglich nachzuholen.
 
 
+# Reflexion
+Diese LP war für uns eine gute Gelegenheit, unser Können in der OOP zu verbessern. 
+Weil unser Projekt noch nicht vollständig abgeschlossen ist, möchten wir es in der nächsten LP weiterentwickeln und fertigstellen.
 
 
 
       
+
 
 
 
