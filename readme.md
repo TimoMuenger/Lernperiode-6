@@ -65,11 +65,10 @@ Da wir eine Partnerarbeit machen sind meine Unterlagen unter dem Repo von Joshua
 
 ## 17.10
 - [x] Fehler vom letzten mal beheben
-- [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
 - [x] Kampfsystem fertig machen
+- [ ] Die Fähigkeiten der verschiedenen Klassen einfügen
 
-✍️ Heute haben wir das Kampfsystem fertig gestellt. Mit den Fähigkeiten der Klassen hatten wir Probleme, doch wir denken es ist eine gute Idee wenn wir es in die nächste Lehrperiode 
-mitnehmen.
+✍️ Heute haben wir das Kampfsystem fertig gestellt. Mit den Fähigkeiten der Klassen hatten wir Probleme, doch wir denken es ist eine gute Idee wenn wir es in die nächste Lehrperiode mitnehmen.
 
 # Fertiges Projekt
 Unser Projekt ist ein Text RPG bei dem man eine selbst ausgewählte Rolle spielt mit der man Monster bekämpft.
@@ -84,6 +83,7 @@ Weil unser Projekt noch nicht vollständig abgeschlossen ist, möchten wir es in
 
 
       
+
 
 
 
